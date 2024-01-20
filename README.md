@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/JayHeng/pzh-mcu-bi-weekly">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly&theme=material-palenight&hide_border=true&show_icons=true" alt="pzh-mcu-bi-weekly"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly" alt="pzh-mcu-bi-weekly"></a>
   <a href="https://github.com/JayHeng/pzh-mcu-ranking">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking&theme=material-palenight&hide_border=true&show_icons=true" alt="pzh-mcu-ranking"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking&theme=material-palenight" alt="pzh-mcu-ranking"></a>
 </p>
