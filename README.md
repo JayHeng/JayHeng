@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## My projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly)](https://github.com/JayHeng/pzh-mcu-bi-weekly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly&layout=compact)](https://github.com/JayHeng/pzh-mcu-bi-weekly)
 
 
 <p align="left">
