@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 
 ## My projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly)](https://github.com/JayHeng/pzh-mcu-bi-weekly)
+
+
 <p align="left">
   <a href="https://github.com/JayHeng/pzh-mcu-bi-weekly">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly&theme=material-palenight&style=font-size:14px;"></a>
