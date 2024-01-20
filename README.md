@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 ## My projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/JayHeng/pzh-mcu-bi-weekly">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly&theme=material-palenight&style=font-size:14px;"></a>
   <a href="https://github.com/JayHeng/pzh-mcu-ranking">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking&theme=material-palenight"></a>
 </p>
