@@ -12,17 +12,9 @@ Here are some ideas to get you started:
 
 ## My projects
 
-<a href="https://github.com/JayHeng/pzh-mcu-bi-weekly">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly" />
-</a>
-
-<a href="https://github.com/JayHeng/pzh-mcu-ranking">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking" />
-</a>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/JayHeng/pzh-mcu-bi-weekly">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly" alt="pzh-mcu-bi-weekly"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly"></a>
   <a href="https://github.com/JayHeng/pzh-mcu-ranking">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking&theme=material-palenight" alt="pzh-mcu-ranking"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-ranking&theme=material-palenight"></a>
 </p>
