@@ -1,9 +1,3 @@
-### Hi there 👋 I'm Jay Heng 😄
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NXP Semiconductors
-- 🌱 I’m currently learning ARM Cortex-M and Graphics&GUI
 
  [![JayHeng's github stats](https://github-readme-stats.vercel.app/api?username=JayHeng)](https://github.com/JayHeng)
 
