@@ -8,7 +8,7 @@
         <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JayHeng&hide_border=true">
     </picture>
   </a>
-  <summary><h2>📘 My Open Source Projects</h2></summary>
+  <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/JayHeng/pzh-mcu-bi-weekly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=pzh-mcu-bi-weekly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pzh-mcu-bi-weekly"></a>
     <a href="https://github.com/JayHeng/NXP-MCUBootUtility"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JayHeng&repo=NXP-MCUBootUtility&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NXP-MCUBootUtility"></a>
