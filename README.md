@@ -1,8 +1,8 @@
 
  [![JayHeng's github stats](https://github-readme-stats.vercel.app/api?username=JayHeng)](https://github.com/JayHeng)
 
-## Page visitor counter (starts from 2023.09.23)
-![visitor counter](https://profile-counter.glitch.me/JayHeng/count.svg)
+| <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayHeng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JayHeng's github stats" /></a> | <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayHeng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
