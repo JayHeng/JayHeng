@@ -1,8 +1,7 @@
 <details open> 
   <summary><h2>📘 My Stat</h2></summary>
-| <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayHeng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JayHeng's github stats" /></a>
-| <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayHeng&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+  <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayHeng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JayHeng's github stats" /></a>
+  <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayHeng&layout=compact&theme=buefy&hide_border=true" /></a>
   <a href="https://github.com/JayHeng/github-readme-streak-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=JayHeng&hide_border=true&theme=dark&background=010409">
