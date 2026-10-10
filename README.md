@@ -1,19 +1,9 @@
 
-<a href="https://github.com/JayHeng/github-readme-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=JayHeng&hide_title=true&langs_count=10&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,metaCube,anatomy">
-        <img align="right" src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=JayHeng&hide_title=true&langs_count=10&hide_border=true&layout=donut-vertical&exclude_repo=babel,metaCube,anatomy">
-    </picture>
-</a>
+
+| <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayHeng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JayHeng's github stats" /></a> | <a href="https://github.com/JayHeng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayHeng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/JayHeng/github-readme-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=JayHeng&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&icon_color=1f6feb&all_time_contribs=true">
-        <img align="left" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=JayHeng&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&all_time_contribs=true">
-    </picture>
-</a>
 
 <a href="https://github.com/JayHeng/github-readme-streak-stats">
     <picture>
